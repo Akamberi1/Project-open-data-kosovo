@@ -1,4 +1,4 @@
-# Projekti-open-data-kosovo
+# Project-open-data-kosovo
 
 Hello!
 
